@@ -1,0 +1,4 @@
+.vagrant
+provision.sh
+Vagrantfile
+scripts/
